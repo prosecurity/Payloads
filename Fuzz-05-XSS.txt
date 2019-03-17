@@ -1,4 +1,3 @@
-
 <iframe xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(125)"></iframe>
 </xsl:template>
 <xsl:template match="/">
